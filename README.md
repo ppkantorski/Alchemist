@@ -41,7 +41,8 @@ Alchemist does not include mods directly. Mods are distributed through the Alche
 
 - **Pchtxt Mods**: Available in [Alchemist Repos](https://github.com/ppkantorski/Alchemist-Repos). Users can download individual author packs or use the “Update All” feature within Alchemist.  
 - **Content Mods**: Organized by title ID in the same repositories. Use the “Install Contents” section to deploy content mods to the correct directories.
-
+    - Format for adding content mods is as follows:
+        - `/switch/.packages/Alchemist/contents/{TITLE_NAME} - {MOD_NAME}/{TITLE_ID}/...`
 Mods must be placed in the corresponding `repos/pchtxts/` or `repos/contents/` subfolders for Alchemist to process them correctly.
 
 ## Installation
