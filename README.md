@@ -64,6 +64,6 @@ Contributions are welcome. Please open an [issue](https://github.com/ppkantorski
 
 ## License
 
-Licensed under [GPLv2](LICENSE).
+Licensed and distributed under [GPLv2](LICENSE).
 
 Copyright © 2024–2026 ppkantorski
