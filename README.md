@@ -53,3 +53,17 @@ Alchemist does not include mods directly. Mods are distributed through the Alche
 ## Additional Information
 
 For detailed instructions, feature documentation, and support, see [Ultrahand Overlay](https://github.com/ppkantorski/Ultrahand-Overlay).
+
+## Contributing
+
+Contributions are welcome. Please open an [issue](https://github.com/ppkantorski/Alchemist/issues/new/choose) or submit a [pull request](https://github.com/ppkantorski/Alchemist/compare). You can also reach out on [GBATemp](https://gbatemp.net/threads/ultrahand-overlay-the-fully-craft-able-overlay-executor.633560/).
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X3VR194) [![sponsor](https://github.com/ppkantorski/ppkantorski/raw/refs/heads/main/.pics/sponsor-icon.png)](https://github.com/sponsors/ppkantorski)
+
+---
+
+## License
+
+Licensed under [GPLv2](LICENSE) with a [custom library](https://github.com/ppkantorski/libultrahand/tree/main/libultra) under [CC-BY-4.0](SUB_LICENSE).
+
+Copyright © 2024–2026 ppkantorski
