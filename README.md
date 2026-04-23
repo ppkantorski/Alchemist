@@ -64,6 +64,6 @@ Contributions are welcome. Please open an [issue](https://github.com/ppkantorski
 
 ## License
 
-Licensed under [GPLv2](LICENSE) with a [custom library](https://github.com/ppkantorski/libultrahand/tree/main/libultra) under [CC-BY-4.0](SUB_LICENSE).
+Licensed under [GPLv2](LICENSE).
 
 Copyright © 2024–2026 ppkantorski
